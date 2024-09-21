@@ -1,1 +1,1 @@
-module server
+module main
